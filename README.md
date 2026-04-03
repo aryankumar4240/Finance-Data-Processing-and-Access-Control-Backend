@@ -1,20 +1,20 @@
 # Finance-Data-Processing-and-Access-Control-Backend
 Scalable Finance Backend API with JWT Authentication, MongoDB, and RESTful architecture
 
-💰 Finance Backend API
+## Finance Backend API
 
-📄 Description
+## Description
 
 This is a simple Finance Backend API for managing users and financial records.
 It allows user registration, login, record management, and dashboard summary.
 
-🚀 Features
+## 🚀 Features
 	•	User registration and login
 	•	Create, Read financial records
 	•	Dashboard summary with totals
 	•	Tested with Postman collection
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 	•	Node.js
 	•	Express.js
 	•	MongoDB
@@ -22,11 +22,11 @@ It allows user registration, login, record management, and dashboard summary.
 
 ⚡ Getting Started
 
-Prerequisites
+### Prerequisites
 	•	Node.js installed
 	•	MongoDB running locally
 
-Installation
+## Installation
 	1.	Clone the repo:
 
 git clone <your-repo-url>
@@ -44,7 +44,7 @@ Server will run on http://localhost:3000
 
 ⸻
 
-🧪 Postman Collection
+## 🧪 Postman Collection
 
 You can test all APIs using the Postman collection:
 	•	Collection file: docs/finance-api.postman_collection.json
@@ -70,7 +70,7 @@ POST /users/register
   "role": "admin"
 }
 
-Login
+## Login
 
 POST /users/login
 
@@ -98,7 +98,7 @@ Authorization: <token>
 
 ⸻
 
-📂 Folder Structure
+## 📂 Folder Structure
 
 finance-backend/
  ├── docs/
@@ -123,15 +123,15 @@ MIT
 
 # API TESTING POSTMAN 
 
-* Register API
+## Register API
   
 <img width="810" height="787" alt="docs:screenshots:register_api" src="https://github.com/user-attachments/assets/2842c630-4aec-42c0-903e-5c93fa3a3394" />
 
-* Login API
+## Login API
   
 <img width="805" height="786" alt="docs:screenshots:login_api" src="https://github.com/user-attachments/assets/f747e738-7d1d-4d07-b335-8e82e1a347cc" />
 
-* dashboard API
+## dashboard API
   
 <img width="819" height="800" alt="docs:screenshots:dashboard" src="https://github.com/user-attachments/assets/43b47f1a-b437-447e-9b5a-9a9274315fc4" />
 
