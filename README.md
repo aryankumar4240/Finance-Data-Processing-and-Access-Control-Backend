@@ -109,8 +109,8 @@ finance-backend/
  ├── LICENSE/
  ├── README.md
  ├── app.js/
+ ├── package-lock.json
  ├── package.json
- ├── package-losck.json
 
 
 ⸻
