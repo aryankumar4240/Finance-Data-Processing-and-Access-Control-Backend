@@ -101,11 +101,16 @@ Authorization: <token>
 📂 Folder Structure
 
 finance-backend/
+ ├── docs/
+ ├──  └── finance-api.postman_collection.json
  ├── models/
  ├── routes/
- ├── docs/
- │    └── finance-api.postman_collection.json
+ ├── middleware/
+ ├── License/
  ├── README.md
+ ├── app.js/
+ ├── package.json
+ ├── package-losck.json
 
 
 ⸻
