@@ -121,8 +121,16 @@ MIT
 
 # API TESTING POSTMAN 
 
+* Register API
+  
 <img width="810" height="787" alt="docs:screenshots:register_api" src="https://github.com/user-attachments/assets/2842c630-4aec-42c0-903e-5c93fa3a3394" />
+
+* Login API
+  
 <img width="805" height="786" alt="docs:screenshots:login_api" src="https://github.com/user-attachments/assets/f747e738-7d1d-4d07-b335-8e82e1a347cc" />
+
+* dashboard API
+  
 <img width="819" height="800" alt="docs:screenshots:dashboard" src="https://github.com/user-attachments/assets/43b47f1a-b437-447e-9b5a-9a9274315fc4" />
 
 
