@@ -1,7 +1,7 @@
 # Finance-Data-Processing-and-Access-Control-Backend
-A simple Finance Backend API for user management, financial records, and dashboard summary. Tested with Postman.
+Scalable Finance Backend API with JWT Authentication, MongoDB, and RESTful architecture
 
-#💰 Finance Backend API
+💰 Finance Backend API
 
 📄 Description
 
