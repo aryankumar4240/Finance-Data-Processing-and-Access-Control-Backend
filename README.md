@@ -134,4 +134,10 @@ MIT
 <img width="819" height="800" alt="docs:screenshots:dashboard" src="https://github.com/user-attachments/assets/43b47f1a-b437-447e-9b5a-9a9274315fc4" />
 
 
+# API Check
+
+<img width="1435" height="728" alt="Screenshot 2026-04-03 at 12 38 20 PM" src="https://github.com/user-attachments/assets/22346dda-afcc-45e7-97a1-367d9ed99690" />
+
+
+
 
