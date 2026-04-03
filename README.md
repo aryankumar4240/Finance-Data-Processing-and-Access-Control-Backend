@@ -106,9 +106,9 @@ finance-backend/
  ├── middleware/
  ├── models/
  ├── routes/
- ├── LICENSE/
+ ├── LICENSE
  ├── README.md
- ├── app.js/
+ ├── app.js
  ├── package-lock.json
  ├── package.json
 
@@ -118,6 +118,8 @@ finance-backend/
 ⚡ License
 
 MIT
+
+⸻
 
 # API TESTING POSTMAN 
 
