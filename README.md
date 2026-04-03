@@ -103,10 +103,10 @@ Authorization: <token>
 finance-backend/
  ├── docs/
  ├──  └── finance-api.postman_collection.json
+ ├── middleware/
  ├── models/
  ├── routes/
- ├── middleware/
- ├── License/
+ ├── LICENSE/
  ├── README.md
  ├── app.js/
  ├── package.json
